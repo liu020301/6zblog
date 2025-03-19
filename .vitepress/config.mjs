@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import { set_sidebar } from './utils/auto_sidebar.mjs'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/6zBlog/",
+  // base: "/6zBlog/",
   head: [["link", {rel: "icon", href: "/6zBlog/blog_icon.svg"}]],
   title: "6z Blog",
   description: "A VitePress Site",
