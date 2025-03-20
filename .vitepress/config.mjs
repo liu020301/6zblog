@@ -40,7 +40,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: "Copyright© 2025 Zehao Liu",
+      copyright: "Copyright © 2025 Zehao Liu",
     },
     
        // 设置搜索框的样式
