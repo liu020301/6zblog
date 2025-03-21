@@ -8,8 +8,8 @@ hero:
   tagline: 纸上得来终觉浅，绝知此事要躬行。
   actions:
     - theme: brand
-      text: 为何建站
-      link: /life/why
+      text: 关于我
+      link: /about-me
 
 # features:
 #   - title: Feature A
