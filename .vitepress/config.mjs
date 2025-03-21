@@ -13,9 +13,8 @@ export default defineConfig({
     logo: '/blog_icon.svg',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', items:[
-        { text: 'Markdown Examples', link: '/markdown-examples' },
-        { text: 'Runtime API Examples', link: '/api-examples' }
+      { text: '学习', items:[
+        { text: 'LiteDB', link: '/LiteDB 文档.md' },
       ] },
       { text: "碎碎念", link: '/life'},
       { text: "关于我", link: "/about-me"},
