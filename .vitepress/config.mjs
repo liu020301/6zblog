@@ -12,7 +12,7 @@ export default defineConfig({
     outline: [1, 6],
     logo: '/blog_icon.svg',
     nav: [
-      { text: 'Home', link: '/' },
+      { text: '首页', link: '/' },
       { text: '学习', items:[
         { text: 'LiteDB', link: '/LiteDB 文档.md' },
       ] },
