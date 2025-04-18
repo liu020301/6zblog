@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "6z Blog"
-  text: "网络自留地"
+  text: "学习文档"
   tagline: 纸上得来终觉浅，绝知此事要躬行。
   actions:
     - theme: brand
